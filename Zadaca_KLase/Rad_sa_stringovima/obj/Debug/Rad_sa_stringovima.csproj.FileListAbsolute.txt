@@ -1,0 +1,7 @@
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\bin\Debug\Rad_sa_stringovima.exe.config
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\bin\Debug\Rad_sa_stringovima.exe
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\bin\Debug\Rad_sa_stringovima.pdb
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\obj\Debug\Rad_sa_stringovima.csproj.AssemblyReference.cache
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\obj\Debug\Rad_sa_stringovima.csproj.CoreCompileInputs.cache
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\obj\Debug\Rad_sa_stringovima.exe
+C:\Users\icilo\source\repos\Zadaca_KLase\Rad_sa_stringovima\obj\Debug\Rad_sa_stringovima.pdb

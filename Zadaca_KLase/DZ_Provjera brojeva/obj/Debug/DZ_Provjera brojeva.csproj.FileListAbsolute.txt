@@ -1,0 +1,7 @@
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\bin\Debug\DZ_Provjera brojeva.exe.config
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\bin\Debug\DZ_Provjera brojeva.exe
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\bin\Debug\DZ_Provjera brojeva.pdb
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\obj\Debug\DZ_Provjera brojeva.csproj.AssemblyReference.cache
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\obj\Debug\DZ_Provjera brojeva.csproj.CoreCompileInputs.cache
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\obj\Debug\DZ_Provjera brojeva.exe
+C:\Users\icilo\source\repos\Zadaca_KLase\DZ_Provjera brojeva\obj\Debug\DZ_Provjera brojeva.pdb

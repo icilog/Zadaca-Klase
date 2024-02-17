@@ -1,0 +1,7 @@
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\obj\Debug\Student_klasa.csproj.AssemblyReference.cache
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\obj\Debug\Student_klasa.csproj.CoreCompileInputs.cache
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\bin\Debug\Student_klasa.exe.config
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\bin\Debug\Student_klasa.exe
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\bin\Debug\Student_klasa.pdb
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\obj\Debug\Student_klasa.exe
+C:\Users\icilo\source\repos\Zadaca_KLase\Student_klasa\obj\Debug\Student_klasa.pdb
